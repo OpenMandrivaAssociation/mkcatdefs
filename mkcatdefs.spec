@@ -3,7 +3,7 @@ Version: 1.0
 Release: %mkrel 4
 Summary: Catalog definition tool
 Group: Sciences/Geosciences
-URL: http://fdo.osgeo.org/
+URL: https://fdo.osgeo.org/
 Source: %{name}-%{version}.tar.bz2
 License: GPL
 BuildRequires: cmake
